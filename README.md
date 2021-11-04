@@ -1,7 +1,7 @@
 Hello world, I’m James Grimmett.
 
 Here you'll find various pieces of code that I've been tinkering with.
-I have a strong interest in Astrophysics and scientific software, along with a growing interest in data science and machine learning. Most of the code here is related to those two topics.
+I have a strong interest in Astrophysics and scientific software, along with a growing interest in data science and statistical analysis. Most of the code here is related to those two topics.
 
 For example;
 - [SimpleGCE](https://github.com/jamesgrimmett/simple_gce) is a one-zone Galactic Chemical Evolution model written in Python. It can be used to study the evolution of the chemical abundances in a model galaxy, and was used in [this paper](https://arxiv.org/abs/1911.05901).
